@@ -1,0 +1,5 @@
+branching
+Web architecture is made up of 3 essential elements.
+
+-website
+-server and IP address
